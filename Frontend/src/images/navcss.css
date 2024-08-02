@@ -1,0 +1,20 @@
+.nav-text {
+    display: block;
+    color: black !important;
+    text-size-adjust: 20;
+    border-radius: 0.5rem;
+    text-decoration: none;
+}
+.align-right{
+    float:right;
+}
+
+#nav-dropdown-dark-example .dropdown-toggle::after {
+    color: blue; 
+}
+
+.nav-text:hover {
+    background-color: #DC8686 !important;
+    color: #711DB0;
+}
+
