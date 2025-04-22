@@ -50,11 +50,11 @@ export function Footer() {
               <div className="col-lg-3 col-md-6 footer-contact">
                 <h4>Contact Us</h4>
                 <p>
-                  CDAC Mumbai <br />
-                  Kharghar, Navi Mumbai<br />
-                  Maharashtra, India <br /><br />
-                  <strong>Phone:</strong> +91 2244 6722 99<br />
-                  <strong>Email:</strong> cdac@example.com<br />
+                  My Personal Project <br />
+                  SpringBoot,MySql<br />
+                  JavaScript,React <br /><br />
+                  <strong>Phone:</strong> +91 9860826294<br />
+                  <strong>Email:</strongyogeshpatil.dev23@gmail.com<br />
                 </p>
               </div>
               <div className="col-lg-3 col-md-6 footer-info">
