@@ -14,3 +14,4 @@ public class BillingApplication {
 	}
 
 }
+//@SpringBootApplication is the combination of @Configuration,@EnableAutoConfiguration and @ComponentScan
