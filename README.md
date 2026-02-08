@@ -1,4 +1,4 @@
-# Billing Management System (FinTech Implementation)
+# Billing Management System.
 
 ## 📌 Overview
 A robust backend solution designed to streamline digital payments and billing cycles. This project focuses on the intersection of **Finance and Technology (FinTech)**, ensuring secure, accurate, and efficient transaction handling for utility bills and mobile recharges.
